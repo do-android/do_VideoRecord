@@ -1,0 +1,10 @@
+*.class
+*.apk
+bin/
+gen/
+.settings/
+proguard/
+*.classpath
+/doExt_do_VideoRecord/do_VideoRecord.zip
+/doExt_do_VideoRecord/do_build.xml
+/doExt_do_VideoRecord/libs/docore.jar
